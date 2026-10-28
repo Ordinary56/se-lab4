@@ -1,0 +1,2 @@
+GT4500,1,0,1,0 # Both has 1 ammo
+TORPEDO,ALL # Fire both

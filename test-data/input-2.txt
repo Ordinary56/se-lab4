@@ -1,0 +1,4 @@
+GT4500,1,0,1,0 # Main goal is to fire the second one
+TORPEDO,SINGLE # Primary fired here
+TORPEDO,SINGLE # Secondary fired here
+
