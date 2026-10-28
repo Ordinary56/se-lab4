@@ -1,0 +1,4 @@
+# Test case 1: GT4500 fires the primary twice
+GT4500,2,0,0,0
+TORPEDO,SINGLE # <- wasPrimaryusedLast is true
+TORPEDO,SINGLE # <- wasPrimaryusedLast is true again

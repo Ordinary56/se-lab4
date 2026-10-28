@@ -1,0 +1,3 @@
+GT4500,1,0,1,1 # 100% failure rate for the secondary
+TORPEDO,SINGLE # Primary fired
+TORPEDO,SINGLE # Secondary fired
