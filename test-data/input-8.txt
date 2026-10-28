@@ -1,0 +1,4 @@
+# wasPrimaryUsed is true and there's no ammo left
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
